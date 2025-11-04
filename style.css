@@ -2,3 +2,7 @@
     background-color: aqua;
     font-family: 'Times New Roman', Times, serif;
 }
+.btn-primary {
+  background-color: #007bff; 
+  color: white; 
+}
